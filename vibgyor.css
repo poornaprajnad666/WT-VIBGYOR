@@ -1,0 +1,40 @@
+<h1>
+{
+	font-family:"Goudy Bookletter 1911",serif;
+	text-align:center;
+}
+td
+{
+	height:300px;
+	width:150px;
+	border:6px solid white;
+	text-align: center;
+}
+#one
+{
+	Background:#9400D3;
+}
+#two
+{
+	Background:#4B0082;
+}
+#three
+{
+	Background:#0000FF;
+}
+#four
+{
+	Background:#00FF00;
+}
+#five
+{
+	Background:#FFF000;
+}
+#six
+{
+	Background:#FF7F00;
+}
+#seven
+{
+	Background:#FF0000;
+}
