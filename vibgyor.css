@@ -1,7 +1,7 @@
-<h1>
-{
-	font-family:"Goudy Bookletter 1911",serif;
+h1{
+	font-family:sans-serif;
 	text-align:center;
+	font: solid ;
 }
 td
 {
@@ -28,7 +28,7 @@ td
 }
 #five
 {
-	Background:#FFF000;
+	Background:#fff000;
 }
 #six
 {
